@@ -17,5 +17,3 @@ No installation is required. You only need to have Python installed on your syst
 2. Navigate to the directory containing the script.
 3. Run the script using Python by typing: `python port_scanner.py`
 4. When prompted, enter the target IP address, the first port, and the last port in the range you wish to scan.
-
-**Example Input:**
